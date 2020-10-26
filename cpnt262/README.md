@@ -19,7 +19,6 @@
 - Demonstrate how objects are created and used in a script.
 - Demonstrate how to control JavaScript objects on a web page.
 - Explain the purpose and structure of Array objects.
-- Use JavaScript extension libraries such as jQuery to simplify the coding process throughout the remaining JavaScript modules.
 
 ## 4. Write scripts that perform event handling and form validation.
 - Explain Form tags and the related form objects that are generated when a page loads.
@@ -39,16 +38,15 @@
 - Demonstrate how to create, modify and delete localStorage.
 - Demonstrate the use of timers to control repetitive events in a script.
 
-## 7. Use advanced JavaScript and DHTML features to add animation and complex functionality to pages.
+## 7. Use advanced JavaScript to add animation and complex functionality to pages.
 - Describe advanced features of JavaScript.
-- Use JavaScript to detect browser version and brand and provide browser independence.
 - Explain how the sizing and positioning features of Cascading Style Sheets can be accessed and modified from JavaScript to create dynamic animation features.
 - Use Cascading Style Sheet positioning, the Document Object Model, and JavaScript event handling to build dynamic HTML features into a web page.
 
-## 8. Use Asynchronous JavaScript and XML techniques to make web pages dynamic.
+## 8. Use Asynchronous JavaScript and JSON to make web pages dynamic.
 - Explain how tags such as “div” can be controlled to provide dynamic size, position, and contents changes after the main page isloaded.
 - Describe the mechanism used by JavaScript to communicate asynchronously with servers and update page regions.
-- Use AJAX techniques in scripts to dynamically update web page regions using asynchronous communications with web servers.
+- Use the Fetch API to dynamically update web page regions using asynchronous communications with web servers.
 
 ## 9. Use Object-Oriented patterns to structure web applications.
 - Create objects, assign properties and call methods.

@@ -12,43 +12,29 @@
 - Develop a marketing plan to promote your web site.
 
 ## 2. Implement a variety of techniques and technologies to test and optimize a web site.
-- Analyze copyright issues with respect to data, images and multitmedia content.
 - Add a favicon to your web site to enhance branding.
 - Create a print style for your web site.
 - Create a site map to improve search engine optimization.
-- Test and validate your markup code and assess the usability of your web site.
-- Research and add keywords to your web pages and metatags.
-- Ensure that each web page has a unique title
-- Add alt tags to your images using Dreamweaver.
 - Test your website on multiple browsers and check for functionality.
 - Assess the use and cost of adding Google Adwords and other forms of online marketing.
-- Add a search engine to your website if it exceeds 50 pages e.g. AtomZ, Google.
-- Setup a PayPal account and add a basic shopping cart.
 
 ## 3. Register a website with a variety of search engines and directories.
-- Upload your website using FTP, test hyperlinks, multimedia, email and forms.
-- Add Last updated date, site map and Google analytics.
+- Add Google analytics.
 - Contact and register your website with the major search engines, Google, Bing, Yahoo, etc.
 - Survey the use of and benefits of using online advertising and link exchanges.
 - Explain unethical and high risk search engine practices such as spamming search engines.
-- Upload a promotional video to Youtube and embed in your website.
 - Install the code for online email subscription service, create a newsletter and mail out.
 - Evaluate traditional methods for promoting a website using print, TV and radio.
-- Get your business and website in the news - write a news release, begin a publicity campaign, offer a contest.
-- Analyze and apply permission based email program.
+- Analyze and apply permission based email campaign.
 - Install a Google interactive map on the contact us page and research what else can be done with Google maps.
-- Add a social bookmarking widget to a web page such as Share this Add this to promote viral marketing.
 
 ## 4. Evaluate the strengths and weaknesses of a variety of websites.
 - Assess and determine the usability of a website.
 - Learn what Eye tracking studies reveal about the design of a web site.
 - Track the number of visitors, bounce rate, length of stay using Google analytics.
-- Track feedback from surveys, email and Blogs.
 - Evaluate where a site shows up on a search engine and why.
 - Evaluate the financial cost and return on investment of your website.
-- Methods to reward visitors for coming to your website or promoting it to others.
 - Understand how a website might generate revenue.
-- Discuss the value or disadvantages of having more than one website.
 
 ## 5. Develop a business justification for using E-Commerce given a business scenario.
 - Describe the main concepts comprising E-Business and E-Commerce.
@@ -99,6 +85,6 @@
 
 ## 13. Develop methods to demonstrate websites and code examples.
 - Demonstrate the concepts learned throughout the program in a portfolio site.
-- Create a Git site to demonstrate code examples.
+- Create a site to demonstrate code examples.
 - Use the portfolio site as a tool to promote skills learned to potential employers or clients.
 - Present the portfolio site and code examples in a professional manner.
