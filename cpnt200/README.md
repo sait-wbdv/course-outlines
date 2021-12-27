@@ -2,7 +2,17 @@
 [PDF Source](CPNT_200.pdf)
 
 ## v0.1
+1. Understand what content management systems are and how they are used.
+    - Explain a content management system.
+    - Describe major common components of a content management system (language, database, web server, DNS name).
+    - Outline common content management systems requirements (log in, user and permissions management, separation of content and style, Nice/URI /permalinks support, language support, publication management).
+2. Create a content strategy.
 
+3. Implement a content strategy with a headless CMS.
+
+4. Deploy a headless CMS.
+
+5. Explore competing headless content management systems.
 
 ---
 ## Changelog
