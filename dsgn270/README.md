@@ -2,6 +2,40 @@
 [PDF Source](DSGN_270.pdf)
 
 ## v0.1
+1. Identify the unique characteristics of online media and how these characteristics influence design choices.
+    - Define design.
+    - Explain some of the difference between designing for web and designing for print.
+    - Describe responsive design and what problem it tries to solve.
+    - Explain how bandwidth limitations influence design decisions.
+    - Explore how different viewing mediums can affect design.
+    - Explain the basic principles of typography.
+    - Explain the basic principles of colour.
+
+2. Explain why information architecture, accessibility, and usability are important to achieving optimal results with site design.
+    - Define usability.
+    - Explain why usability is an important aspect of web design.
+    - Describe some common website conventions.
+    - Define information architecture.
+    - Explain the relationship between information, organization, and navigation.
+    - Create a site map for a multi-page website.
+    - Explain the concept of universal design.
+    - Describe some of the ways that web content may be inaccessible to certain users.
+
+3. Address ethical issues in web design.
+    - Describe the concepts of copyright, public domain, and Creative Commons.
+    - List some of the ways you can legally obtain content to use for free on a website.
+    - Explain the potential legal issues around privacy laws and websites.
+    - Describe some of the issues that may be faced by women, people of colour, and other minorities working in the web development field.
+
+4. Use various design tools to create examples of layouts that exemplify different theories about design.
+    - Sketch basic wireframes on paper.
+    - Create wireframes for different screen widths of the same website.
+    - Explain how frameworks can be used to create responsive prototypes.
+    - Describe different types of responsive navigation.
+
+5. Explain in basic terms how a website can be optimized to achieve high ranking results with search engines.
+    - Explain what findability is and why it is important.
+    - Describe the basics of how search engines determine the ranking of each page.
 
 ---
 ## Changelog
