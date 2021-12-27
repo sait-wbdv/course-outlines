@@ -1,4 +1,5 @@
-# CPNT 260 Course Outcomes
+# CPNT 260: Web Page Construction Fundamentals 
+[PDF Source](CPNT_260.pdf)
 ## 1. Create a simple HTML document.
 - Explain the difference between HTML, CSS, and JavaScript.
 - Briefly summarize the history and development of HTML and CSS to their current incarnation.

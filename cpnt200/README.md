@@ -1,3 +1,5 @@
+# CPNT 200: Content Management Systems
+[PDF Source](CPNT_200.pdf)
 ## Course Learning Outcome(s):
 ## 1. Understand what content management systems are and how they are used.
 - Explain a content management system.

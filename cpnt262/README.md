@@ -1,4 +1,5 @@
-# CPNT 262 Course Learning Outcome(s):
+# CPNT 262: Web Client and Server Programming
+[PDF Source](CPNT_262.pdf)
 ## 1. Apply the JavaScript language to enhance web pages.
 - Explain the history and purpose of JavaScript.
 - Describe the structure of a simple JavaScript script.

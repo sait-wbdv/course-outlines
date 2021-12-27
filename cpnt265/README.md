@@ -1,4 +1,5 @@
-## CPNT 265 Course Learning Outcome(s):
+# CPNT 265: The Business of the Web
+[PDF Source](CPNT_265.pdf)
 ## 1. Plan the development of a web site.
 - Outline the steps and strategies involved in planning a web site.
 - Conduct research for initial plans including a comparison of your competitors’ strategies.

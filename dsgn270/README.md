@@ -1,4 +1,5 @@
-## DSGN 270 Course Learning Outcome(s):
+# DSGN 270: Web Design Theory and Social Media Concepts
+[PDF Source](DSGN_270.pdf)
 ## 1. Evaluate the principles of social media.
 - Examine the principles of social media.
 - Review how social media has influenced today’s society.
