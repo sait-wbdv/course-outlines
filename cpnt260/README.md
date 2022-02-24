@@ -77,7 +77,7 @@
     - Use Flexbox and CSS Grid to create responsive designs without media queries.
 
 9. Use CSS to modify the appearance of images and modify the backgrounds of elements.
-    - Use float to position test around images.
+    - Use float to position text around images.
     - Create a responsive image galleries with Flexbox and CSS Grid.
     - Use CSS to add decorative images to a web page.
     - Apply background colours and gradients to elements.
@@ -92,7 +92,7 @@
     - Describe the stacking order and z-index of overlapping elements.
     - Create a sticky menu bar with fixed positioning.
 
-12. Use box properties together with Felxbox and CSS Grid to achieve advanced web page layout.
+12. Use box properties together with Flexbox and CSS Grid to achieve advanced web page layout.
     - Explain how Flexbox and Grid layout work differently than older methods of layout.
 
 13. Outline issues with browser and device compatibility.

@@ -6,6 +6,7 @@
     - Explain a content management system.
     - Describe major common components of a content management system (language, database, web server, DNS name).
     - Outline common content management systems requirements (log in, user and permissions management, separation of content and style, Nice/URI /permalinks support, language support, publication management).
+    - Pages vs Posts
 2. Create a content strategy.
 
 3. Implement a content strategy with a headless CMS.

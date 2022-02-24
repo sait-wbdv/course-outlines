@@ -53,7 +53,7 @@
 
 3. Execute an original social media strategy.
     - Evaluate well executed social media campaigns.
-    - Identify the important elements of planning a social media campaign, such as audience, duration, and desired campaignoutcome.
+    - Identify the important elements of planning a social media campaign, such as audience, duration, and desired campaign outcome.
     - Use URL shortening services to track activity across your social media campaign.
     - Create unique content to use in your social media campaign.
     - Create a contest or other campaign that encourages your audience to interact with you directly across multiple social networks.

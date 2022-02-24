@@ -87,7 +87,7 @@
     - Demonstrate features for creating and maintaining databases.
     - Insert, update, retrieve and delete data.
 
-15. Create complex applications that interact with HTML forms and databases to dynamically generate web pages and store form data in adatabase.
+15. Create complex applications that interact with HTML forms and databases to dynamically generate web pages and store form data in a database.
     - Describe Mongoose database functions.
     - Demonstrate database connectivity using a Node.js script.
     - Retrieve data and generate a customized web page displaying the data.
