@@ -3,17 +3,26 @@
 
 ## v0.1
 1. Understand what content management systems are and how they are used.
-    - Explain a content management system.
-    - Describe major common components of a content management system (language, database, web server, DNS name).
+    - Explain a Content Management System.
+    - Explain how CMS differs from a Headless Content Management System.
+    - Describe major common components of a Content Platform (language, database, web server, DNS name).
     - Outline common content management systems requirements (log in, user and permissions management, separation of content and style, Nice/URI /permalinks support, language support, publication management).
     - Pages vs Posts
 2. Create a content strategy.
-
+    - Content inventory
+    - CRUD
+    - Roles, responsibilities, and permissions
+    - Categories and tags
 3. Implement a content strategy with a headless CMS.
+    - Create an account with a Content Platform.
+    - Demonstrate local installation of a Command Line Interface for a Content Platform.
 
-4. Deploy a headless CMS.
+4. Connect a deployed Headless CMS to a frontend template.
 
 5. Explore competing headless content management systems.
+    - Demonstrate a local installation of an alternative content platform.
+    - Compare and contrast functionality between two content platforms.
+    - Identify files, folders and configuration options of an alternative content platform.
 
 ---
 ## Changelog
