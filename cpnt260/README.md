@@ -2,7 +2,13 @@
 [PDF Source](CPNT_260.pdf)
 
 ## v0.1
-
+13. Demonstrate the different procedures for saving files for different usage scenarios.
+    - Explain procedures for outputting individual images for online design.
+    - Explain procedures for outputting complete HTML documents.
+    - Demonstrate different file optimization methods for outputting raster files.
+    - Demonstrate different options for outputting HTML and CSS.
+    - Explain how documents can be modified after output in an HTML editing program.
+    
 ---
 ## Changelog
 ### Legacy

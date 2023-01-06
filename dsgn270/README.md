@@ -37,6 +37,50 @@
     - Explain what findability is and why it is important.
     - Describe the basics of how search engines determine the ranking of each page.
 
+6. Examine the tools, settings and terminology associated with a vector drawing program.
+    - Define the user interface of a vector drawing program.
+    - Explain the benefits and limitations of vector objects.
+    - Explain the terminology associated with the construction of vector objects. 
+    - Explain basic work flow procedures.
+    - Identify different file formats and their uses.
+    - Explain procedures for saving different file types.
+
+7. Use the appropriate tools to create and modify basic vector shapes.
+    - Identify the basic tools used to draw, transform and select shapes. 
+    - Use the tools effectively to create new shapes.
+    - Use the tools effectively to transform shapes.
+    - Use a variety of commands to manage objects. 
+
+8. Use colour to change the appearance of vector objects.
+    - Explain the concepts of fill, stroke and appearance.
+    - Explain how colours are constructed using different colour models. 
+    - Apply different colour themes to artwork.
+    - Manage colour swatches.
+    - Modify stroke characteristics on objects.
+    - Apply gradients to objects.
+
+9. Use drawing and reshaping tools to create and modify vector shapes.
+    - Modify basic shapes using various reshaping tools.
+    - Manage anchors points on paths.
+    - Select the appropriate tool to cut, smooth and erase parts of different types of paths. 
+    - Define the different drawing tools and their uses.
+    - Use the pen tool to create and modify vector objects.
+
+10. Use the different type tools to create and modify text.
+    - Explain the different type tools and their uses.
+    - Demonstrate the different options for using type with paths. 
+    - Explain typographic concepts and terminology.
+    - Modify text using various typographic options.
+    - Format larger bodies of text using paragraph formatting tools.
+    - Explain the procedure of changing type into a vector path.
+
+11. Demonstrate the different procedures for saving artwork specific for online use.
+    - Identify procedures for outputting individual components for online design.
+    - Compare methods for outputting complete HTML documents.
+    - Demonstrate different file optimization methods for outputting graphic files.
+    - Demonstrate different options for outputting HTML and CSS.
+    - Explain how documents can be modified after output in an HTML editing program.
+
 ---
 ## Changelog
 ### Legacy

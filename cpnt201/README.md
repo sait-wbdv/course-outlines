@@ -6,6 +6,10 @@
 ---
 ## Changelog
 ### Legacy
+--- 
+
+---
+Moved to 270
 1. Examine the tools, settings and terminology associated with a vector drawing program.
     - Define the user interface of a vector drawing program.
     - Explain the benefits and limitations of vector objects.
@@ -49,6 +53,8 @@
     - Demonstrate different file optimization methods for outputting graphic files.
     - Demonstrate different options for outputting HTML and CSS.
     - Explain how documents can be modified after output in an HTML editing program.
+/270
+---
 
 7. Examine the tools, settings and terminology associated with a raster based design and image editing program.
     - Define the user interface of a raster design program.
@@ -101,12 +107,16 @@
     - Demonstrate the different eraser tools and their uses.
     - Explain the toning tools and their different uses.
 
+--- 
+Moved to 260
+
 13. Demonstrate the different procedures for saving files for different usage scenarios.
     - Explain procedures for outputting individual images for online design.
     - Explain procedures for outputting complete HTML documents.
     - Demonstrate different file optimization methods for outputting raster files.
     - Demonstrate different options for outputting HTML and CSS.
     - Explain how documents can be modified after output in an HTML editing program.
+---
 
 14. Backup work and collaborate with a team using version control.
     - Backup work using Git.
