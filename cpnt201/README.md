@@ -2,8 +2,31 @@
 [PDF Source](CPNT_201.pdf)
 
 ## v0.1
-
+1. Backup work and collaborate with a team using version control.
+    - Backup work using Git.
+    - Perform Git tasks using the command line or a GUI. 
+    - Create and resolve merge conflicts.
+    - Create and share branches to work with a team.
+    - Communicate with a team through pull requests. 
+    - Use a task board to coordinate project work
+2. Use tools to improve and optimize CSS workflows.
+    - Install a CSS preprocessor.
+    - Compile CSS from a CSS preprocessor.
+    - Write modular CSS using preprocessor imports.
+    - Reduce code repetition using a CSS preprocessor.
+    - Create re-usable components using a CSS preprocessor. 
+    - Implement a design system using a CSS preprocessor.
+3. Manage project dependencies with a package manager
+4. Organize files and directories
+    - 
+5. Deployment
+6. Install and customize a a text editor for software development
+    - Install a text editor used in industry.
+    - Configure a text editor to format code according to best practices.
+    - Install text editor extensions to validate code.
+    - 
 ---
+
 ## Changelog
 ### Legacy
 --- 
