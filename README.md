@@ -15,3 +15,4 @@ Based on the un-official versions that have been updated by instructors over the
 - Where does feedback come in?
 - How do credits work?
 - How do we calculate time guidelines?
+- Does public speaking belong in the outlines?
