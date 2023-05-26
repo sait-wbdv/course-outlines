@@ -14,3 +14,4 @@ Based on the un-official versions that have been updated by instructors over the
 - assignment vs achievement as an assessment
 - Where does feedback come in?
 - How do credits work?
+- How do we calculate time guidelines?

@@ -1,12 +1,15 @@
 # CPNT 201: Web Design Tools and Techniques 
-[PDF Source](CPNT_201.pdf)
 ## Course Description
 This course will introduce standard web editing, image and photo editing programs, as well as drawing tools used in website creation. Topics such as image correction, optimization of files, image resolution and special effects will be covered. Typical uses for the software include the creation of original artwork and logos and graphics. Topics such as the creation of shapes, patterns, and the use of colors will be covered.
+
+3 credits
 
 ## Time Guidelines
 The standard instructional time for this course is 48 hours.
 
 ## Course Assessment
+- Assignments: 60%
+- Achievements: 40%
 
 ## Course Learning Outcomes
 ### 1. Use version control to manage the code of a project.

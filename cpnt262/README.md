@@ -2,14 +2,16 @@
 ## Course Description
 This course provides an introduction to Web Application development concepts for client facing and server side programming to build multi-tiered database applications accessed through thin-clients. Learners will enhance websites to provide form validation, rollover effects, and cookie handling.
 
+Credits: 1.5
+
 ## Time Guidelines
 The standard instructional time for this course is 132 hours.
 
 ## Course Assessment
-- **Daily Exercises**: 30% 
-- **Workshops**: 70%
+- **Achievements**: 20%
+- **Assignments**: 45% 
+- **Final Project**: 35%
 - **Total**: 100%
-[PDF Source](CPNT_262.pdf)
 
 ## Course Learning Outcomes
 ### 1. Apply the JavaScript language to enhance web pages.

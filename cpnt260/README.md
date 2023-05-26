@@ -1,14 +1,16 @@
 # CPNT 260: Web Page Construction Fundamentals 
 ## Course description
 This web design course provides the foundation of web site creation using the most recent version of Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) to develop consistent web pages that are easy to standardize and modify.
-[PDF Source](CPNT_260.pdf)
+
+Credits: 1.5
 
 ## Time Guidelines
 The standard instructional time for this course is 60 hours.
 
 ## Course Assessment
-- **Assignments (x 5)**: 65% 
-- **Final Project**: 35%
+- **Achievements**: 30%
+- **Assignments**: 40% 
+- **Final Project**: 30%
 - **Total**: 100%
 
 ## Course Learning Outcome(s)
