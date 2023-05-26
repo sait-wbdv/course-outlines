@@ -1,4 +1,4 @@
-# DSGN 270: Web Design Theory and Social Media Concepts
+# DSGN 270: Web Design Fundamentals
 This course will introduce the best practices in web design theory including web usability, vector image design and user experience design. 
 
 Credits: 1.5
