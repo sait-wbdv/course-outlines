@@ -2,7 +2,7 @@
 ## Course description
 This web design course provides the foundation of web site creation using the most recent version of Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) to develop consistent web pages that are easy to standardize and modify.
 
-Credits: 1.5
+Credits: 3
 
 ## Time Guidelines
 The standard instructional time for this course is 60 hours.

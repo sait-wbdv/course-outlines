@@ -2,7 +2,7 @@
 ## Course Description
 This course provides the knowledge and skills required to take a website live to the internet. Concepts such as domain registration, internet marketing, content management, search engine optimization and web hosting will be included. E-commerce strategies will also be discussed including setting up payment options and shopping cards, using appropriate levels of security.
 
-Credits: 1.5
+Credits: 3
 
 ## Time Guidelines
 The standard instructional time for this course is 66 hours.

@@ -2,7 +2,7 @@
 ## Course Description
 This course will introduce standard web editing, image and photo editing programs, as well as drawing tools used in website creation. Topics such as image correction, optimization of files, image resolution and special effects will be covered. Typical uses for the software include the creation of original artwork and logos and graphics. Topics such as the creation of shapes, patterns, and the use of colors will be covered.
 
-3 credits
+1.5 credits
 
 ## Time Guidelines
 The standard instructional time for this course is 48 hours.

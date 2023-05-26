@@ -19,6 +19,7 @@ The standard instructional time for this course is 64 hours.
 - Create an account for a hosted headless CMS.
 - Demonstrate the ability to add, edit, manage and publish text and media content in a headless CMS.
 - Extending a headless CMS with dependencies
+- Explore different content management systems and their use-cases.
 
 ### 2. Connect to a headless CMS platform using Javascript
 - .env
@@ -42,12 +43,6 @@ The standard instructional time for this course is 64 hours.
 - tables, rows, columns
 - data integrity: pk, fk
 - SQL
-
-### 6. Explore other content management systems.
-- Storyblok
-- Strapi
-- Netlify CMS
-- Supabase
 
 ---
 
