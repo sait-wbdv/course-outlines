@@ -100,7 +100,7 @@ The standard instructional time for this course is 60 hours.
 - Describe the stacking order and z-index of overlapping elements.
 - Create a sticky menu bar with fixed positioning.
 
-### 12. Use box properties together with Felxbox and CSS Grid to achieve advanced web page layout.
+### 12. Use box properties together with Flexbox and CSS Grid to achieve advanced web page layout.
 - Explain how Flexbox and Grid layout work differently than older methods of layout.
 
 ### 13. Outline issues with browser and device compatibility.
@@ -109,3 +109,10 @@ The standard instructional time for this course is 60 hours.
 - Use browser tools to measure performance.
 - Explain the necessity of testing a website on different device types, device brands, browsers, and operating systems.
 - Test a website using a device simulator.
+
+---
+
+### 13. Demonstrate the different procedures for saving files for different scenarios.
+- Explain procedures for outputting individual images for online use.
+- Identify different file formats and their uses.
+- Demonstrate different file optimization methods for outputting raster files.

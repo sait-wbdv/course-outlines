@@ -16,3 +16,4 @@ Based on the un-official versions that have been updated by instructors over the
 - How do credits work?
 - How do we calculate time guidelines?
 - Does public speaking belong in the outlines?
+- Do we need to use Desktop Office or is the browser version ok?
