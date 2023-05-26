@@ -1,41 +1,5 @@
 # DSGN 270: Web Design Theory and Social Media Concepts
 [PDF Source](DSGN_270.pdf)
-## 1. Evaluate the principles of social media.
-- Examine the principles of social media.
-- Review how social media has influenced today’s society.
-
-## 2. Register popular social media and web 2.0 services.
-- Compare popular social networks in terms of their importance and functionality.
-- Compare popular micro-blogging services in terms of their importance and functionality.
-- Compare popular photo sharing services in terms of their importance and functionality.
-- Compare popular forum software in terms of their importance and functionality.
-- Compare popular location based networking services in terms of their importance and functionality.
-
-## 3. Execute an original social media strategy.
-- Evaluate well executed social media campaigns.
-- Identify the important elements of planning a social media campaign, such as audience, duration, and desired campaignoutcome.
-- Use URL shortening services to track activity across your social media campaign.
-- Create unique content to use in your social media campaign.
-- Create a contest or other campaign that encourages your audience to interact with you directly across multiple social networks.
-
-## 4. Integrate social media services into your website.
-- Identify ways that social media services can integrate with each other to streamline your campaign.
-- Create functionality for your website so that users can share or contribute to your content via social media.
-
-## 5. Publish a simple podcast.
-- Identify the characteristics of a podcast.
-- Review inexpensive hardware and software to get started podcasting.
-- Justify the importance of writing a script and producing your podcast.
-- Record a podcast.
-
-## 6. Identify the unique characteristics of online media and how these characteristics influence design choices.
-- Define design.
-- Explain some of the difference between designing for web and designing for print.
-- Describe responsive design and what problem it tries to solve.
-- Explain how bandwidth limitations influence design decisions.
-- Explore how different viewing mediums can affect design.
-- Explain the basic principles of typography.
-- Explain the basic principles of colour.
 
 ## 7. Explain why information architecture, accessibility, and usability are important to achieving optimal results with site design.
 - Define usability.
@@ -47,11 +11,10 @@
 - Explain the concept of universal design.
 - Describe some of the ways that web content may be inaccessible to certain users.
 
-## 8. Address ethical issues in web design.
+## 8. Address legal issues in web design.
 - Describe the concepts of copyright, public domain, and Creative Commons.
 - List some of the ways you can legally obtain content to use for free on a website.
 - Explain the potential legal issues around privacy laws and websites.
-- Describe some of the issues that may be faced by women, people of colour, and other minorities working in the web development field.
 
 ## 9. Use various design tools to create examples of layouts that exemplify different theories about design.
 - Sketch basic wireframes on paper.
@@ -62,3 +25,107 @@
 ## 10. Explain in basic terms how a website can be optimized to achieve high ranking results with search engines.
 - Explain what findability is and why it is important.
 - Describe the basics of how search engines determine the ranking of each page.
+
+---
+
+## 2. Use the appropriate tools to create and modify basic vector shapes.
+- Identify the basic tools used to draw, transform and select shapes. 
+- Use the tools effectively to create new shapes.
+- Use the tools effectively to transform shapes.
+- Use a variety of commands to manage objects. 
+
+## 3. Use colour to change the appearance of vector objects.
+- Explain the concepts of fill, stroke and appearance.
+- Explain how colours are constructed using different colour models. 
+- Apply different colour themes to artwork.
+- Manage colour swatches.
+- Modify stroke characteristics on objects.
+- Apply gradients to objects.
+
+## 1. Examine the tools, settings and terminology associated with a vector drawing program.
+- Define the user interface of a vector drawing program.
+- Explain the benefits and limitations of vector objects.
+- Explain the terminology associated with the construction of vector objects. 
+- Explain basic work flow procedures.
+- Identify different file formats and their uses.
+- Explain procedures for saving different file types.
+
+## 4. Use drawing and reshaping tools to create and modify vector shapes.
+- Modify basic shapes using various reshaping tools.
+- Manage anchors points on paths.
+- Select the appropriate tool to cut, smooth and erase parts of different types of paths. 
+- Define the different drawing tools and their uses.
+- Use the pen tool to create and modify vector objects.
+
+## 5. Use the different type tools to create and modify text.
+- Explain the different type tools and their uses.
+- Demonstrate the different options for using type with paths. 
+- Explain typographic concepts and terminology.
+- Modify text using various typographic options.
+- Format larger bodies of text using paragraph formatting tools.
+- Explain the procedure of changing type into a vector path.
+
+## 6. Demonstrate the different procedures for saving artwork specific for online use.
+- Identify procedures for outputting individual components for online design.
+- Compare methods for outputting complete HTML documents.
+- Demonstrate different file optimization methods for outputting graphic files.
+- Demonstrate different options for outputting HTML and CSS.
+- Explain how documents can be modified after output in an HTML editing program.
+
+## 7. Examine the tools, settings and terminology associated with a raster based design and image editing program.
+- Define the user interface of a raster design program.
+- Explain the benefits and limitations of raster images.
+- Explain the terminology associated with raster files.
+- Explain image resolution and its implications for different work flow scenarios. 
+- Demonstrate basic work flow procedures in Photoshop and the Bridge.
+- Identify different file formats and their uses.
+- Explain procedures for saving different file types.
+
+## 8. Use the appropriate tools to create and modify selection boundaries.
+- Demonstrate the use of the selection tools and their options. 
+- Make selections using different techniques.
+- Demonstrate using selections for different usage scenarios. 
+- Explain selections and their relationship with layers.
+- Modify and save selections using masks and channels.
+
+## 9. Demonstrate basic repair and correction of raster images.
+- Demonstrate the different image repair tools and their uses. 
+- Explain cropping, “content aware” scaling and filling.
+- Demonstrate merging images for panoramas.
+- Explain the different image correction tools and their options. 
+- Explain image correction methods using different scenarios. 
+- Demonstrate Colour Balance adjustments.
+- Explain neutral targets and their use for colour adjustments.
+- Demonstrate Contrast and Tone adjustments using Levels.
+- Demonstrate basic image sharpening.
+- Explore the Camera Raw interface and its comparative operations with Photoshop.
+
+## 10. Demonstrate the use of layers for file construction.
+- Explain the layers menu and panel and their different options. 
+- Demonstrate the creation of layers for different purposes. 
+- Explain layer transparency and blending modes.
+- Demonstrate the options and uses for layers styles and effects. 
+- Demonstrate text layers and their options.
+
+## 11. Use masks, channels and paths to create visual effects and enhance your work flow.
+- Explain the concept of masks and their relationship to channels. 
+- Demonstrate the use of layer or pixel masks.
+- Modify layer masks using different painting tools.
+- Demonstrate the use of clipping masks.
+- Explain the use of vector tools and masks inside of a raster program.
+- Demonstrate the different options available for creating and modifying vector shapes and masks. 
+- Demonstrate work flow procedures for transferring data from a vector program.
+- Create and modify channels for different uses.
+
+## 12. Use the different painting and erasing tools to create or modify artwork.
+- Demonstrate the painting tools and their options. 
+- Manipulate gradients.
+- Demonstrate the different eraser tools and their uses.
+- Explain the toning tools and their different uses.
+
+## 13. Demonstrate the different procedures for saving files for different usage scenarios.
+- Explain procedures for outputting individual images for online design.
+- Explain procedures for outputting complete HTML documents.
+- Demonstrate different file optimization methods for outputting raster files.
+- Demonstrate different options for outputting HTML and CSS.
+- Explain how documents can be modified after output in an HTML editing program.

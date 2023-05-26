@@ -6,3 +6,9 @@ Based on the un-official versions that have been updated by instructors over the
 - [CPNT 200](cpnt200)
 - [CPNT 262](cpnt262)
 - [CPNT 265](cpnt265)
+
+## Questions for Dana
+- Can we not have textbooks?
+- When does HR begin/end with instructors?
+    - Early warning program?
+    

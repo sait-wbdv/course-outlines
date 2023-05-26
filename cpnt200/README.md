@@ -33,3 +33,16 @@
 - Identify files and folders involved in a customized SilverStripe theme.
 - Demonstrate a local Drupal installation.
 - Compare and contrast functionality between WordPress and Drupal.
+
+---
+
+## 14. Create and maintain databases on a database server.
+- Construct a small database with MongoDB.
+- Demonstrate features for creating and maintaining databases.
+- Insert, update, retrieve and delete data.
+
+## 15. Interact with HTML forms and databases to dynamically generate web pages and store form data in a database.
+- Describe Mongoose database functions.
+- Demonstrate database connectivity using a Node.js script.
+- Retrieve data and generate a customized web page displaying the data.
+- Construct a script that receives form data from a web page and inserts it into a database collection.
