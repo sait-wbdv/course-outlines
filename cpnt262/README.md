@@ -2,7 +2,7 @@
 ## Course Description
 This course provides an introduction to Web Application development concepts for client facing and server side programming to build multi-tiered database applications accessed through thin-clients. Learners will enhance websites to provide form validation, rollover effects, and cookie handling.
 
-Credits: 1.5
+Credits: 6
 
 ## Time Guidelines
 The standard instructional time for this course is 132 hours.
