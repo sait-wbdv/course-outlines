@@ -1,6 +1,6 @@
 # DSGN 270: Web Design Fundamentals
 
-This course will introduce the best practices in web design theory including web usability, vector image design and user experience design.
+This course will introduce the best practices in web design theory including web usability, vector image design and user experience design. Topics such as responsive design, visual hierarchy, and interface design.
 
 Credits: 1.5
 
@@ -10,7 +10,7 @@ The standard instructional time for this course is 48 hours.
 
 ## Course Assessment
 
-- Achievements: 40%
+- Lab Activities: 40%
 - Assignments: 60%
 
 ## Course Learning Outcomes
@@ -36,14 +36,7 @@ The standard instructional time for this course is 48 hours.
 - List some of the ways you can legally obtain content to use for free on a website.
 - Explain the potential legal issues around privacy laws and websites.
 
-### 4. Explain in basic terms how a website can be optimized to achieve high ranking results with search engines.
-
-- Explain what findability is and why it is important.
-- Describe the basics of how search engines determine the ranking of each page.
-- Explain how to improve search engine rankings.
-- Demonstrate different file optimization methods for website assets such as images
-
-### 5. Use the appropriate tools to create and modify basic vector shapes.
+### 4. Use the appropriate tools to create and modify basic vector shapes.
 
 - Identify the basic tools used to draw, transform and select shapes.
 - Use the tools effectively to create new shapes.
@@ -52,7 +45,7 @@ The standard instructional time for this course is 48 hours.
 - Explain the concepts of fill and stroke.
 - Explain how colours are constructed using different colour models.
 
-### 6. Examine the tools, settings and terminology associated with a vector drawing program.
+### 5. Examine the tools, settings and terminology associated with a vector drawing program.
 
 - Define the user interface of a vector drawing program.
 - Explain the benefits and limitations of vector objects.
@@ -61,7 +54,7 @@ The standard instructional time for this course is 48 hours.
 - Identify different file formats and their uses.
 - Explain procedures for saving different file types.
 
-### 7. Design web page layouts that exemplify modern design principles.
+### 6. Design web page layouts that exemplify modern design principles.
 
 - Sketch basic wireframes.
 - Create wireframes for different screen widths of the same website.
