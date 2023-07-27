@@ -1,6 +1,6 @@
 # DSGN 270: Web Design Fundamentals
 
-This course will introduce the best practices in web design theory including web usability, vector image design and user experience design. Topics such as responsive design, visual hierarchy, and interface design.
+This course will introduce the best practices in web design theory including web usability, vector image design and user experience design. Topics such as responsive design, visual hierarchy, and interface design will be covered.
 
 Credits: 1.5
 
